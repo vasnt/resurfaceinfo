@@ -1,4 +1,4 @@
-# Obsidian Resurfacing Information Plugin
+# Obsidian Resurfacingithg Information Plugin
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
